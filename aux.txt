@@ -1,0 +1,10 @@
+Following are the online resources we used to build our CPU:
+(i) https://ww1.microchip.com/downloads/en/devicedoc/atmel-0856-avr-instruction-set-manual.pdf
+(ii) https://drive.google.com/file/d/1hopgMSyYm_8a9Kel5vE00R_9fW_Qf-0e/view?usp=drive_link
+(iii) http://atmel-studio-doc.s3-website-us-east-1.amazonaws.com/webhelp/GUID-0B644D8F-67E7-49E6-82C9-1B2B9ABE6A0D-en-US-1/index.html
+(iv) http://atmel-studio-doc.s3-website-us-east-1.amazonaws.com/webhelp/GUID-0B644D8F-67E7-49E6-82C9-1B2B9ABE6A0D-en-US-1/index.html
+
+Percentage of team member 1(CS22B020) IS 50%
+Percentage of team member 2(CS22B021) IS 50%
+
+CS22B001 and CS22B056 are the roll numbers of the students with whom we have discussed.
